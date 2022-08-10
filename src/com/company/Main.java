@@ -1,6 +1,7 @@
 package com.company;
 
-// abstract class means existing in thought  or as  an ideA WITHOUT actual existence  || the sub-class actually provides implementation for all of the methods in parent class
+// abstract class means existing in thought  or as  an ideA WITHOUT actual existence  ||
+// the sub-class actually provides implementation for all of the methods in parent class
 // abstract method is that which is declared without any implementation
 
 abstract class Parent{
